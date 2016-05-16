@@ -2,7 +2,7 @@
 
 Shipping releases with style. Herein lies guidance for naming releases.
 
-For nteract/nteract (the notebook app!), we'll use:
+For nteract/nteract (the notebook app!), we'll mash together an alliterative adjective with an illustrious scientist:
 
 ```
 <adjective> <scientist's last name>
