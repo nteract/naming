@@ -4,6 +4,7 @@ Mihailo Petrovic Alas
 Angel Alcala
 Salim Ali
 Luis Alvarez
+Andre Marie Ampère
 Anaximander
 Mary Anning
 Virginia Apgar
@@ -277,6 +278,7 @@ John Ray
 Prafulla Chandra Ray
 Francesco Redi
 Sally Ride
+Wilhelm Röntgen
 Hermann Rorschach
 Ronald Ross
 Ibn Rushd
@@ -286,6 +288,7 @@ Mohammad Abdus Salam
 Jonas Salk
 Frederick Sanger
 Walter Schottky
+Erwin Schrödinger
 Theodor Schwann
 Glenn Seaborg
 Hans Selye
@@ -328,11 +331,8 @@ Thomas Willis
 E. O. Wilson
 Sven Wingqvist
 Sergei Winogradsky
+Friedrich Wöhler
 Wilbur and Orville Wright
 Wilhelm Wundt
 Chen-Ning Yang
 Ahmed Zewail
-Erwin Schrödinger
-Friedrich Wöhler
-Wilhelm Röntgen
-Andre Marie Ampère
